@@ -14,7 +14,7 @@ gunicorn==20.1.0
 aiohttp==3.8.1
 pymongo[srv]==3.12.3
 bs4
-heroku3
+render
 validators
 python-dotenv
 click==8.1.3
