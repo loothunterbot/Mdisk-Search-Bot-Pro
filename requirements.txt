@@ -1,4 +1,5 @@
 https://github.com/loothunterbot/Mdisk-Search-Bot-Pro
+pyrogram
 TgCrypto
 pyromod==1.5
 motor
